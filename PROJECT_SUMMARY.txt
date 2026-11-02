@@ -1,0 +1,7 @@
+Restaurant Data Analysis Project
+
+Goal: Analyze cuisine, city, rating, price, delivery, booking, chain, geography, and voting trends.
+Stack: Python, Pandas, NumPy, Matplotlib.
+Dataset: 9,551 rows, 21 columns.
+Deliverables: notebook, script, report PDF/DOCX, charts, result CSVs, README.
+Limitation: no written review-comment column is present in the dataset.
